@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/guilledipa/urlshort"
+	"proyectos/urlshort"
 )
 
 func main() {
