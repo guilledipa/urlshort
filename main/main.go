@@ -10,7 +10,7 @@ import (
 )
 
 var (
-	targets = flag.String("targets", "./problems.csv", "Quiz filename.")
+	targets = flag.String("targets", "./targets.yaml", "Quiz filename.")
 	port    = flag.Int("port", 8080, "Port to listen on.")
 )
 
