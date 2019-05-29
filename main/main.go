@@ -5,8 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	// "github.com/guilledipa/urlshort"
-	"proyectos/urlshort"
+	"github.com/guilledipa/urlshort"
 )
 
 var (
